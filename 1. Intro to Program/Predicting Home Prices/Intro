@@ -1,0 +1,17 @@
+A group of real estate investors are looking to put a bid on a group of 10 homes that have come up for sale. 
+They want a 20% margin so they can make a profit when they resell the homes. 
+Predict the price for the homes up for bid and factor in the margin to give the investors a final bid amount to make for these houses.
+
+One of the sheets in the excel workbook contains the past home sales (Past Sales Data). 
+The past home sales data was used to build a linear regression model, which produced a formula to help predict a home's value based on:
+- the number of bedrooms
+- bathrooms
+- the square footage of the home. 
+
+The formula obtained:
+
+price = 51880.41 + 44.72 * square feet + 52613.9 * bedrooms + 27513.48 * bathrooms
+
+This formula is then applied to the homes up for bid.
+
+Lastly, Data Combined for Graph shows how to graph bedroom vs. price for both the past home sales and predicted prices of the homes up for bid.
