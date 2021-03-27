@@ -8,10 +8,4 @@ The past home sales data was used to build a linear regression model, which prod
 - bathrooms
 - the square footage of the home. 
 
-The formula obtained:
 
-price = 51880.41 + 44.72 * square feet + 52613.9 * bedrooms + 27513.48 * bathrooms
-
-This formula is then applied to the homes up for bid.
-
-Lastly, Data Combined for Graph shows how to graph bedroom vs. price for both the past home sales and predicted prices of the homes up for bid.
